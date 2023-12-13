@@ -1,0 +1,17 @@
+corpo{
+    color: black;
+    text-align: center;
+    background-color: aqua;
+    border: blue 2cm;
+    border-style: groove;
+}
+.lista{
+    border:double red 10px;
+    background-color: blueviolet;
+    color: chocolate;
+    font-size: 25px;
+}
+
+#link-seliga{
+      font-size: ;
+}
